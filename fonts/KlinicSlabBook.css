@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"KlinicSlab-Book";
+    src:url("KlinicSlabBook.woff2") format("woff2"),url("KlinicSlabBook.woff") format("woff"),url("KlinicSlabBook.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        

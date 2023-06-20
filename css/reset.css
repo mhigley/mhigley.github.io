@@ -1,0 +1,104 @@
+html, body {
+    font-family: 'Figtree', sans-serif;
+    /* https://matthewjamestaylor.com/responsive-font-size */
+    font-size: calc(15px + 0.390625vw);
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0;
+    overflow-x: hidden;
+}
+strong {
+    font-style: normal;
+    font-weight: 600;
+}
+em {
+    font-weight: inherit;
+}
+h1.light,
+h2.light,
+h3.light,
+h4.light,
+strong.light {
+    font-weight: 300;
+}
+h1.regular,
+h2.regular,
+h3.regular,
+h4.regular,
+strong.regular {
+    font-weight: 400;
+}
+h1.medium,
+h2.medium,
+h3.medium,
+h4.medium,
+strong.medium {
+    font-weight: 500;
+}
+h1.semi,
+h2.semi,
+h3.semi,
+h4.semi,
+strong.semi {
+    font-weight: 600;
+}
+h1.bold,
+h2.bold,
+h3.bold,
+h4.bold,
+strong.bold {
+    font-weight: 700;
+}
+h1.extra,
+h2.extra,
+h3.extra,
+h4.extra,
+strong.extra {
+    font-weight: 800;
+}
+h1.black,
+h2.black,
+h3.black,
+h4.black,
+strong.black {
+    font-weight: 900;
+}
+h1, h2, h3, h4 {
+    font-size: 2rem;
+    margin: .5em;
+    font-weight: normal;
+}
+h1.klinic.light,
+h2.klinic.light,
+h3.klinic.light,
+h4.klinic.light {
+    font-family: "KlinicSlab-Light", serif;
+}
+h1.klinic.book,
+h2.klinic.book,
+h3.klinic.book,
+h4.klinic.book {
+    font-family: "KlinicSlab-Book", serif;
+}
+h1.klinic.medium,
+h2.klinic.medium,
+h3.klinic.medium,
+h4.klinic.medium {
+    font-family: "KlinicSlab-Medium", serif;
+}
+h1.klinic.bold,
+h2.klinic.bold,
+h3.klinic.bold,
+h4.klinic.bold {
+    font-family: "KlinicSlab-Bold", serif;
+}
+.caps {
+    text-transform: uppercase;
+}
+svg {
+    width: auto;
+    height: 1rem;
+}
+a {
+    color: #B33B57;
+}
