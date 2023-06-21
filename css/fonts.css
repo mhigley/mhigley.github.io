@@ -1,51 +1,51 @@
 @font-face {
     font-family:"KlinicSlabLight";
-    src:url("fonts/KlinicSlabLight.woff2") format("woff2");
-    src:url("fonts/KlinicSlabLight.woff") format("woff"),url("fonts/KlinicSlabLight.otf") format("opentype"),url("fonts/KlinicSlabLight.eot") format('embedded-opentype'),url('fonts/KlinicSlabLight.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabLight.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabLight.woff") format("woff"),url("/fonts/KlinicSlabLight.otf") format("opentype"),url("/fonts/KlinicSlabLight.eot") format('embedded-opentype'),url('fonts/KlinicSlabLight.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 @font-face {
     font-family:"KlinicSlabLightIt";
-    src:url("fonts/KlinicSlabLightIt.woff2") format("woff2");
-    src:url("fonts/KlinicSlabLightIt.woff") format("woff"),url("fonts/KlinicSlabLightIt.otf") format("opentype"),url("fonts/KlinicSlabLightIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabLightIt.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabLightIt.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabLightIt.woff") format("woff"),url("/fonts/KlinicSlabLightIt.otf") format("opentype"),url("/fonts/KlinicSlabLightIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabLightIt.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 
 @font-face {
     font-family:"KlinicSlabBook";
-    src:url("fonts/KlinicSlabBook.woff2") format("woff2");
-    src:url("fonts/KlinicSlabBook.woff") format("woff"),url("fonts/KlinicSlabBook.otf") format("opentype"),url("fonts/KlinicSlabBook.eot") format('embedded-opentype'),url('fonts/KlinicSlabBook.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabBook.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabBook.woff") format("woff"),url("/fonts/KlinicSlabBook.otf") format("opentype"),url("/fonts/KlinicSlabBook.eot") format('embedded-opentype'),url('fonts/KlinicSlabBook.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 @font-face {
     font-family:"KlinicSlabBookIt";
-    src:url("fonts/KlinicSlabBookIt.woff2") format("woff2");
-    src:url("fonts/KlinicSlabBookIt.woff") format("woff"),url("fonts/KlinicSlabBookIt.otf") format("opentype"),url("fonts/KlinicSlabBookIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabBookIt.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabBookIt.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabBookIt.woff") format("woff"),url("/fonts/KlinicSlabBookIt.otf") format("opentype"),url("/fonts/KlinicSlabBookIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabBookIt.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 
 @font-face {
     font-family:"KlinicSlabMedium";
-    src:url("fonts/KlinicSlabMedium.woff2") format("woff2");
-    src:url("fonts/KlinicSlabMedium.woff") format("woff"),url("fonts/KlinicSlabMedium.otf") format("opentype"),url("fonts/KlinicSlabMedium.eot") format('embedded-opentype'),url('fonts/KlinicSlabMedium.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabMedium.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabMedium.woff") format("woff"),url("/fonts/KlinicSlabMedium.otf") format("opentype"),url("/fonts/KlinicSlabMedium.eot") format('embedded-opentype'),url('fonts/KlinicSlabMedium.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 @font-face {
     font-family:"KlinicSlabMediumIt";
-    src:url("fonts/KlinicSlabMediumIt.woff2") format("woff2");
-    src:url("fonts/KlinicSlabMediumIt.woff") format("woff"),url("fonts/KlinicSlabMediumIt.otf") format("opentype"),url("fonts/KlinicSlabMediumIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabMediumIt.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabMediumIt.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabMediumIt.woff") format("woff"),url("/fonts/KlinicSlabMediumIt.otf") format("opentype"),url("/fonts/KlinicSlabMediumIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabMediumIt.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 
 @font-face {
     font-family:"KlinicSlabBold";
-    src:url("fonts/KlinicSlabBold.woff2") format("woff2");
-    src:url("fonts/KlinicSlabBold.woff") format("woff"),url("fonts/KlinicSlabBold.otf") format("opentype"),url("fonts/KlinicSlabBold.eot") format('embedded-opentype'),url('fonts/KlinicSlabBold.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabBold.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabBold.woff") format("woff"),url("/fonts/KlinicSlabBold.otf") format("opentype"),url("/fonts/KlinicSlabBold.eot") format('embedded-opentype'),url('fonts/KlinicSlabBold.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
 @font-face {
     font-family:"KlinicSlabBoldIt";
-    src:url("fonts/KlinicSlabBoldIt.woff2") format("woff2");
-    src:url("fonts/KlinicSlabBoldIt.woff") format("woff"),url("fonts/KlinicSlabBoldIt.otf") format("opentype"),url("fonts/KlinicSlabBoldIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabBoldIt.ttf') format('truetype');
+    src:url("/fonts/KlinicSlabBoldIt.woff2") format("woff2");
+    src:url("/fonts/KlinicSlabBoldIt.woff") format("woff"),url("/fonts/KlinicSlabBoldIt.otf") format("opentype"),url("/fonts/KlinicSlabBoldIt.eot") format('embedded-opentype'),url('fonts/KlinicSlabBoldIt.ttf') format('truetype');
     font-style:normal;font-weight:400;
 }
