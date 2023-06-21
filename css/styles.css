@@ -143,6 +143,15 @@ header h1 br {
         margin-top: 5vw;
     }
 }
+@media (max-width: 592px){
+    header h1 {
+        margin: 0;
+    }
+    header h1::before {
+        height: 120%;
+        transform: translate3d(-6%, -9%, 0);
+    }
+}
 header h2 {
     font-size: 1rem;
 }
