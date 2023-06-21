@@ -259,6 +259,26 @@ section#work h3 {
         padding: 10vw 5vw;
     }
 }
+section#work .pills {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+section#work .pills li {
+    margin: 2px;
+}
+section#work .pills li span {
+    font-size: 0.8rem;
+    background: #272038;
+    color: white;
+    border-radius: 25px;
+    display: inline-flex;
+    align-items: center;
+    height: 1.2rem;
+    padding: 5px 10px;
+}
 
 
 
