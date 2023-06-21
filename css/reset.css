@@ -72,25 +72,25 @@ h1.klinic.light,
 h2.klinic.light,
 h3.klinic.light,
 h4.klinic.light {
-    font-family: "KlinicSlab-Light", serif;
+    font-family: "KlinicSlabLight", serif;
 }
 h1.klinic.book,
 h2.klinic.book,
 h3.klinic.book,
 h4.klinic.book {
-    font-family: "KlinicSlab-Book", serif;
+    font-family: "KlinicSlabBook", serif;
 }
 h1.klinic.medium,
 h2.klinic.medium,
 h3.klinic.medium,
 h4.klinic.medium {
-    font-family: "KlinicSlab-Medium", serif;
+    font-family: "KlinicSlabMedium", serif;
 }
 h1.klinic.bold,
 h2.klinic.bold,
 h3.klinic.bold,
 h4.klinic.bold {
-    font-family: "KlinicSlab-Bold", serif;
+    font-family: "KlinicSlabBold", serif;
 }
 .caps {
     text-transform: uppercase;
